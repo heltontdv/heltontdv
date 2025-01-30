@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**heltontdv/heltontdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou um Programador Júnior Helton Lucas! 👨‍💻
 
-Here are some ideas to get you started:
+Bem-vindo ao meu GitHub! Sou um programador júnior apaixonado por desenvolvimento web e back-end. Minhas principais linguagens são:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐘 **PHP**
+- 🌐 **HTML & CSS**
+- ☕ **Java**
+- 📝 **JavaScript**
+- 🐍 **Python**
+- ⚡ **Node.js**
+
+## 🚀 Sobre mim
+Tenho interesse em construir aplicações eficientes e escaláveis. Busco constantemente aprimorar minhas habilidades e desenvolver projetos que demonstrem meu conhecimento e paixão pela programação.
+
+## 📌 Objetivos
+- Criar projetos que agreguem ao meu portfólio 💼
+- Aprimorar minhas habilidades em desenvolvimento web e back-end 🖥️
+- Contribuir para a comunidade open-source 🤝
+
+Fique à vontade para explorar meus repositórios e entrar em contato! 😊
+
+
